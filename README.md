@@ -8,8 +8,8 @@ This code has <b> 91.5% </b>accuracy and <b> 12.3%</b> of loss.
  Dependencies:
  <ul>
   <li> Python 3.x or python 2.7</li>
-  <li> keras 2.x </li>
-  <li> tensorflow or theano</li>
-  <li> nltk </li>
+  <li> Keras 2.x </li>
+  <li> Tensorflow or Theano</li>
+  <li> NLTK </li>
   <li> Sklearn </li>
   </ul>
