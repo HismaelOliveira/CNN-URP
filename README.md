@@ -1,4 +1,4 @@
-# Convolutional Neural Network to Related Post
+# Convolutional Neural Network to Usage Related Post
 
 This repository contains the CNN to usage related post. An usage related post is an concept of HCI that refers usage informations about the system.
 <br/>
